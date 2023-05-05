@@ -6,7 +6,7 @@
 
 
 ###  UGABOOGA:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RicketyRekt&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=EntropyAtWork&theme=gotham&hide_border=true&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
