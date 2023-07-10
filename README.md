@@ -28,3 +28,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Anaconda" width="60" height="60">
   
  </div>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=arduino,autocad,aws,bash,c,dynamodb,git,github,gitlab,gradle,idea,kotlin,linux,matlab,py,pytorch,raspberrypi,tensorflow,vim,vscode," />
+  </a>
+</p>
